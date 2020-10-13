@@ -8,7 +8,6 @@ Note : app folder is not created yet
 
 latest update features.
 
-optional
 1. new bliss wallpaper
 2. new theme pack
-required
+
