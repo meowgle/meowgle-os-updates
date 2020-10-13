@@ -5,3 +5,10 @@ If there is a bug or flaw in meowgle os you can report it in the issues section.
 You can also download apps or features in the app folder by clicking on it then download raw to download it.
 
 Note : app folder is not created yet
+
+latest update features.
+
+optional
+1. new bliss wallpaper
+2. new theme pack
+required
